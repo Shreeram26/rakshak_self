@@ -1,8 +1,8 @@
 # rakshak_self
 
 ## the code below is used for analog input to control speed of the motor with transmitter and reciever <br> 
->Connections
->>motor + and - connected to motor driver out 2
+### NOTE: 5V (arduino) should be connected to 5V of motor driver(for test case only)
+
 
   /*
   Arduino.h - Main include file for the Arduino SDK
